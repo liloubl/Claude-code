@@ -1,0 +1,12 @@
+{
+  "name": "reel-cut",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "hyperframes check",
+    "preview": "hyperframes preview",
+    "render": "hyperframes render"
+  },
+  "devDependencies": { "hyperframes": "^0.6.72" }
+}

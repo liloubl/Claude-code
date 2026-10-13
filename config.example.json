@@ -1,0 +1,29 @@
+{
+  "language": "fr",
+  "whisperCli": "",
+  "whisperModel": "",
+  "derush": {
+    "minSilence": 0.45,
+    "noiseDb": -32
+  },
+  "visual": {
+    "width": 1080,
+    "height": 1920,
+    "fontFamily": "Inter",
+    "captionColor": "#ffffff",
+    "captionShadow": "0 4px 24px rgba(0,0,0,.55), 0 0 2px rgba(0,0,0,.9)"
+  },
+  "captions": {
+    "maxWords": 5,
+    "size": 72,
+    "maxWidth": 900,
+    "bottomPx": 520,
+    "fontPath": ""
+  },
+  "sfx": {
+    "enabled": true,
+    "whooshVolume": 0.7,
+    "tickVolume": 0.35,
+    "leadSeconds": 0.06
+  }
+}
